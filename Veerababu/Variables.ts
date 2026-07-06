@@ -10,11 +10,9 @@ console.log(i)
 var names : string = "veerababu"
 
 var dashboard :string = `Welcome ${names}`
-
 console.log(dashboard)
 
 let firstName: string = "Veeru";
 let message: string = `Welcome ${firstName}`;
 
 console.log(message)
-
