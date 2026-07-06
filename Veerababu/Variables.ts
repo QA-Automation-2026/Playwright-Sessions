@@ -16,3 +16,14 @@ let firstName: string = "Veeru";
 let message: string = `Welcome ${firstName}`;
 
 console.log(message)
+
+const rahul1 = Symbol("Rahul");
+const rahul2 = Symbol("Rahul");
+
+const employees = {
+    [rahul1]: "EMP1001",
+    [rahul2]: "EMP1002"
+};
+
+console.log(employees[rahul1]);
+console.log(employees[rahul2]);
