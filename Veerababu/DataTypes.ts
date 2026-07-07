@@ -23,6 +23,8 @@ si = 8000
 console.log(si)
 
 
+
+
 var age :number = 5588888888888888888888888888888888888888888888888888.558
 
 const voterIdEligibility : number = 18
@@ -38,7 +40,6 @@ console.log(!isEnabled)
 let productValue : null = null
 
 
-console.log(dec)
 
 var dec : string = "value type"
 
@@ -58,6 +59,15 @@ let name1 : symbol =  Symbol("satish") //
 let name2 : symbol =  Symbol("satish")
 
 console.log(name1== name2)
+
+
+let i : number = 15;
+ i = i+5
+
+ i +=10
+
+ i -=20
+ console.log(i)
 
 
 
