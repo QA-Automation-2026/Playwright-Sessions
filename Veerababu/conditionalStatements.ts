@@ -1,4 +1,4 @@
-// conditional statements
+// conditional statements demo
 // if condition - major minor = 18 -  age>=18 = true or false
 
 //if(condition){
