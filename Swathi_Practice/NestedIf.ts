@@ -1,7 +1,7 @@
 let Age: number = 25;
 let hasLicense: boolean = true;
 
-if (age >= 18) {
+if (Age >= 18) {
     if (hasLicense) {
         console.log("You are eligible to drive.");
     } else {
