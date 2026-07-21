@@ -23,4 +23,10 @@ b = 4;
 
 console.log(`a is greater than b  ${a<=b || b>=a}`)
     
+function f(number1 ? : string){
+    //number1 = "16"
+    console.log(number1)
+}
+f("15");
+f();
 
