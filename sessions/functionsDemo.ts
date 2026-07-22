@@ -20,6 +20,10 @@ class demo{
     multiplication(){
 
     }
+
+    async demo1(valuesss:number): Promise<void> {
+    
+}
     
     
 
