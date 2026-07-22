@@ -29,5 +29,14 @@ while (count <= n){
     count++;
 } 
 
+/////////////////////////////////////
 
+do {
+    console.log(first);
 
+    let next: number = first + second;
+    first = second;
+    second = next;
+
+    count++;
+} while (count <= n);
