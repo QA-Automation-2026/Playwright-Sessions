@@ -26,11 +26,10 @@ class demo{
 }
     
     
-
 }
-const obj = new demo();
-let total = obj.addition(15,'25');
-console.log("Total is : "+total)
+const obje = new demo();
+let totalab = obje.addition(15,'25');
+console.log("Total is : "+totalab)
 
 
 // add numbers from 1 to 10 and no return statement
